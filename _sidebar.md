@@ -48,7 +48,7 @@
 - Sprints
 
   - Time A
-    - [Teste](sprints/TimeA/fechamento_sprint0)
+    - Teste
     - [Sprint 1](sprints/TimeA/fechamento_sprint1)
   - Time B
     - [Sprint 0](sprints/TimeB/sprint0/sprint0_fechamento)
