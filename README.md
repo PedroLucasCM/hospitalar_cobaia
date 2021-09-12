@@ -1,4 +1,4 @@
-# 2021-1- Chek
+# 2021-1- Cheklist hospitalar
 
 <p align="center">
     <img src="https://i.imgur.com/hgNCbsG.jpg" ></img>
