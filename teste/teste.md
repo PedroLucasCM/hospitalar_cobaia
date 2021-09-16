@@ -1,4 +1,4 @@
 Teste:
 
-<img src="hospitalar_cobaia/assets/linked_issues.png" alt=Teste">
+<img src="assets/linked_issues.png" alt="hi" class="inline"/>
 
